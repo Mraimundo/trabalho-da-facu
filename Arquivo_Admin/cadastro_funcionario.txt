@@ -1,0 +1,83 @@
+NOME DO FUNCIONÁRIO:	 dikizeko
+DATA DE NASCIMENTO:	 04/08/1996
+NATURALIDADE:	 angola
+CIDADE:	 zaire
+EMAIL:	 dikizeko@gmail.com
+NÚMERO DO RG:	 789654
+NÚMERO DO CPF:	 22255886
+NÚMERO DE TELEFONE:	 937463203
+FUNÇÃO:	 auxliar
+...............	...............	..................	......................
+NOME DO FUNCIONÁRIO:	 Filipe
+DATA DE NASCIMENTO:	 18/08/1999
+NATURALIDADE:	 Brasil
+CIDADE:	 SÆo Paulo
+EMAIL:	 filipe@google.com
+NÚMERO DO RG:	 445Gx_55
+NÚMERO DO CPF:	 222 555 444 
+NÚMERO DE TELEFONE:	 11 998 55 44
+FUNÇÃO:	 Copero
+
+Fim do Cadastro do Funcionário
+...............	...............	..................	......................
+NOME DO FUNCIONÁRIO:	 Makaya Afonso
+DATA DE NASCIMENTO:	 1996/06/24
+NATURALIDADE:	 Congo
+CIDADE:	 Kinshasa
+EMAIL:	 google@congo
+NÚMERO DO RG:	 878979
+NÚMERO DO CPF:	 98797797
+NÚMERO DE TELEFONE:	 64645464
+FUNÇÃO:	 Motoqueiro
+
+Fim do Cadastro do Funcionário
+...............	...............	..................	......................
+NOME DO FUNCIONÁRIO:	 Makaya Pambo Afonso
+DATA DE NASCIMENTO:	 24/06/1996
+NATURALIDADE:	 Congo/RDC
+CIDADE:	 Bokodˆ
+EMAIL:	 makaya@pambo.cogo
+NÚMERO DO RG:	 89879877
+NÚMERO DO CPF:	 6465454
+NÚMERO DE TELEFONE:	 64545648
+FUNÇÃO:	 Motoqueiro /Moto-Panela
+
+Fim do Cadastro do Funcionário
+...............	...............	..................	......................
+NOME DO FUNCIONÁRIO:	 fkdslkf
+DATA DE NASCIMENTO:	 fadfjodaspjf
+NATURALIDADE:	 jfao
+CIDADE:	 iafja
+EMAIL:	 jsafas
+NÚMERO DO RG:	 asnoasdas
+NÚMERO DO CPF:	 sjaodasj
+NÚMERO DE TELEFONE:	 asjodas
+FUNÇÃO:	 sjdoadas
+
+Fim do Cadastro do Funcionário
+...............	...............	..................	......................
+NOME DO FUNCIONÁRIO:	 lasmlfa
+DATA DE NASCIMENTO:	 fafma
+NATURALIDADE:	 moasfmfas
+CIDADE:	 
+EMAIL:	 oasfma
+NÚMERO DO RG:	 asfasom
+NÚMERO DO CPF:	 omasofas
+NÚMERO DE TELEFONE:	 lamsofsa
+FUNÇÃO:	 omfsaoa
+
+Fim do Cadastro do Funcionário
+...............	...............	..................	......................
+NOME DO FUNCIONÁRIO:	 salmlsa
+DATA DE NASCIMENTO:	 kasfmsa
+NATURALIDADE:	 masmaso
+CIDADE:	 mofsoam
+EMAIL:	 mkfsoafkmo
+NÚMERO DO RG:	 ksma
+NÚMERO DO CPF:	 osaoas
+NÚMERO DE TELEFONE:	 oasdoa
+FUNÇÃO:	 asamsp
+
+Fim do Cadastro do Funcionário
+...............	...............	..................	......................
+NOME DO FUNCIONÁRIO:	 mouzinho

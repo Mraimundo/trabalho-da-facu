@@ -1,0 +1,91 @@
+
+Nº de REGISTRO DE CLIENTE::	 Mr 201836
+
+
+MULTAS POR INFRAÇÕES::
+
+Multa por Atraso::	 880 r$
+Multa por Danos::	 500R$~
+Multa por Atraso::	 400R$
+Multa por Atraso::	 200R$
+
+
+DATA E HORA DA DEVOLUÇAÕ::	 2h 30
+...............	...............	..................	......................
+Nº de REGISTRO DE CLIENTE::	 Mr/201836
+
+MULTAS POR INFRAÇÕES::
+
+Multa por Atraso::	 3000 R$
+Multa por Danos::	 500 R$
+Multa por Atraso::	 450 R$
+Multa por Atraso::	 250 R$
+
+
+DATA E HORA DA DEVOLUÇAÕ::	 05/ de Agosto de 2018 pelas 15h :30
+...............	...............	..................	......................
+Nº de REGISTRO DE CLIENTE::	 Dk/201804
+
+MULTAS POR INFRAÇÕES::
+
+Multa por Atraso::	 3000
+Multa por Danos::	 100
+Multa por Atraso::	 100
+Multa por Atraso::	 100
+Total do Valor de Multas ou Juros::	3300
+
+
+DATA E HORA DA DEVOLUÇAÕ::	 02 de Maio de 2018 | 21h:30
+Fim do Cadastro do Cliente
+...............	...............	..................	......................
+
+Nº de REGISTRO DE CLIENTE::	 Dk/201805
+
+Nº de REGISTRO DE CLIENTE::	 Dk/2018/05
+
+MULTAS POR INFRAÇÕES::
+
+Multa por Atraso::	 3000
+Multa por Danos::	 800
+Multa por Atraso::	 0
+Multa por Atraso::	 0
+Total do Valor de Multas ou Juros::	3800
+
+
+DATA E HORA DA DEVOLUÇAÕ:: 2018/05/18--- 21h
+Fim do Cadastro do Cliente
+...............	...............	..................	......................
+
+DATA E HORA DA DEVOLUÇAÕ::	 jkdfkadfa
+...............	...............	..................	......................
+Nº de REGISTRO DE CLIENTE::	 Mr/20301996
+
+MULTAS POR INFRAÇÕES::
+
+Multa por Atraso::	 0
+Multa por Danos::	 3000
+Multa por Atraso::	 0
+Multa por Atraso::	 20
+Total do Valor de Multas ou Juros::	3020 R$
+
+
+DATA E HORA DA DEVOLUÇAÕ:: 2018
+Fim do Cadastro do Cliente
+...............	...............	..................	......................
+
+Nº de REGISTRO DE CLIENTE::	 kjfdskjfsd
+
+MULTAS POR INFRAÇÕES::
+
+Multa por Atraso::	 0
+Multa por Danos::	 0
+Multa por Atraso::	 0
+Multa por Atraso::	 300
+Total do Valor de Multas ou Juros::	300 R$
+
+
+DATA E HORA DA DEVOLUÇAÕ:: 45445
+
+Fim do Cadastro do Cliente
+...............	...............	..................	......................
+
